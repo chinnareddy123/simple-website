@@ -1,0 +1,80 @@
+body {
+    font-family: 'Nunito';
+}
+
+#container {
+    background-color: white;
+    color: #2c3333;
+    border: 1px #a5c9ca solid;
+    width: 250px;
+    height: 300px;
+    float: left;
+    border: 1px solid blue;
+    border-radius: 10px;
+    box-shadow: 13px 21px 38px 0px rgba(0, 0, 0, 0.75);
+    box-sizing:  border-box;
+    @media (min-width:768px) {
+        display: flex;
+    }
+    padding: 40px;
+    margin: 10px;
+    transition: 0.5s;
+    
+}
+
+#container:hover {
+    background-color: #2c3333;
+    color: #fefbf6;
+}
+
+#sports {
+    background-color: white;
+    color: #2c3333;
+    border: 1px #a5c9ca solid;
+    width: 250px;
+    height: 300px;
+    float: left;
+    border: 1px solid blue;
+    border-radius: 10px;
+    box-shadow: 13px 21px 38px 0px rgba(0, 0, 0, 0.75);
+    box-sizing:  border-box;
+    @media (min-width:768px) {
+        display: flex;
+    } 
+    padding: 40px;
+    margin: 10px;
+    transition: 0.5s;
+    
+}
+
+#sports:hover {
+    background-color: #2c3333;
+    color: #fefbf6;
+}
+
+#cartoon {
+    background-color: white;
+    color: #2c3333;
+    border: 1px #a5c9ca solid;
+    width: 250px;
+    height: 300px;
+    float: left;
+    border: 1px solid blue;
+    border-radius: 10px;
+    box-shadow: 13px 21px 38px 0px rgba(0, 0, 0, 0.75);
+    box-sizing:  border-box;
+    @media (min-width:768px) {
+        display: flex;
+    } 
+    padding: 40px;
+    margin: 10px;
+    transition: 0.5s;
+    
+}
+
+#cartoon:hover {
+    background-color: #2c3333;
+    color: #fefbf6;
+}
+
+
